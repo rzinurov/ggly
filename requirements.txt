@@ -1,0 +1,7 @@
+numpy==1.17.0
+opencv-python==4.1.0.25
+matplotlib==3.1.1
+flask==1.1.1
+google-cloud-storage==1.18.0
+google-cloud-logging==1.12.1
+git+https://github.com/davidchua/pymessenger.git@c3aedb65b7a50e0ec82c0df39a566fceec734c85#egg=pymessenger
