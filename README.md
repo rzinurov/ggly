@@ -6,8 +6,6 @@ Demo video:
 
 [![GGLY bot demo](https://img.youtube.com/vi/DIlFDJY08Ls/0.jpg)](https://www.youtube.com/watch?v=DIlFDJY08Ls)
 
-Try it out [here](http://m.me/ggly111)
-
 # How it works
 
 It's a Python [HTTP Google Cloud function](https://cloud.google.com/functions/docs/tutorials/http), that listens to
